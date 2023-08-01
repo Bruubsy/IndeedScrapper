@@ -1,6 +1,6 @@
-# IndeedScraper
+# LinkedInScraper
 
-WebScraper for Indeed using Java and Selenium.
+WebScraper for LinkedIn using Java and Selenium.
 
 The user enter the job keywords and the location. 
 
