@@ -1,6 +1,6 @@
-# IndeedScrapper
+# IndeedScraper
 
-WebScrapper for Indeed using Java and Selenium.
+WebScraper for Indeed using Java and Selenium.
 
 The user enter the job keywords and the location. 
 
